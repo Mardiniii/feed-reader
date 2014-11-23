@@ -1,0 +1,12 @@
+.creation{
+	margin-bottom: 15px;
+}
+.content-close{
+	display: none;
+}
+.post{
+	cursor: pointer;
+}
+#logoFeedReader{
+	color: black;
+}
